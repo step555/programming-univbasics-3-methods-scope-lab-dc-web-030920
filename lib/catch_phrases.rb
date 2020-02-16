@@ -3,7 +3,8 @@ def mario
   puts phrase
 end
 
-
+def toadstool
+  phrase = ""
 
 
 
